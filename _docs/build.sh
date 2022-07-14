@@ -65,10 +65,6 @@ done
 make html
 
 
-<<<<<<< HEAD:_docs/build.sh
 # stage html to docs
+rm -rf ../docs/*
 cp -rf _build/html/* ../docs
-=======
-# stage built html
-cp -rf _build/html/* ../html
->>>>>>> 2bd05ec78f6004887e25b2d730e78bb0b6d89893:docs/build.sh

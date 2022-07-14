@@ -1,9 +1,14 @@
-# abn-ml
+# ABNB Research
 
 ## Installation
 
-Pull repository from <https://github.com/a4q6/abn-ml> and run
+Pull repository from <https://github.com/a4q6/ABNBResearch> and run
 
 ```sh  
-pip install -e abn-ml
+pip install -e ABNBResearch
+```
+  
+then
+```py
+import abn
 ```

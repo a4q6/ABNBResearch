@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'abn-ml'
+project = 'ABNB Research'
 copyright = '2022, q'
 author = 'q'
 

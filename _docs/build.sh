@@ -68,3 +68,4 @@ make html
 # stage html to docs
 rm -rf ../docs/*
 cp -rf _build/html/* ../docs
+touch ../docs/.nojekyll
